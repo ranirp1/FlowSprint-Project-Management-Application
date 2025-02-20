@@ -5,16 +5,16 @@ FlowSprint is a **modern and intuitive project management application** designed
 
 ---
 
-## 🔥 Tech Stack
+## 🛠️ Tech Stack
 
-### 🌐 Frontend (Client-Side)
+### 🖥️ Frontend (Client-Side)
 - **Framework:** Next.js (Fast, SEO-friendly, React-based)
 - **UI Library:** Tailwind CSS (Modern and responsive styling)
 - **State Management:** Redux Toolkit (For managing app state)
 - **Drag & Drop:** React DnD / Framer Motion (For Kanban functionality)
 - **Authentication:** NextAuth.js (Google & Email login support)
 
-### 🖥 Backend (Server-Side)
+### ⚙️ Backend (Server-Side)
 - **Runtime:** Node.js (High-performance JavaScript runtime)
 - **Framework:** Express.js (Lightweight and fast API handling)
 - **Database:** MongoDB + Mongoose (NoSQL flexibility with schema modeling)
@@ -22,12 +22,12 @@ FlowSprint is a **modern and intuitive project management application** designed
 - **Authentication:** JWT (Secure login sessions)
 - **File Uploads:** Cloudinary (For managing attachments and media files)
 
-### ⚙️ Deployment & Hosting
+### ☁️ Deployment & Hosting
 - **Frontend:** 
 - **Backend:** 
 - **Database:** 
 
-### 📌 Advanced Features
+### 🔌 Advanced Features
 - 🚀 **AI Task Prioritization:** OpenAI API (GPT-based task suggestions)
 - 🔔 **Push Notifications:** Firebase Cloud Messaging (Real-time task alerts)
 - 📅 **Google Calendar Integration:** Google API (Sync deadlines & reminders)
@@ -72,7 +72,7 @@ FlowSprint/
 
 ---
 
-## 🛠 Installation & Setup
+## 🧑‍💻 Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
