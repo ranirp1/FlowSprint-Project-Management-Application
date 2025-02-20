@@ -93,4 +93,5 @@ npm install
 ```
 ---
 
-### 🎉 Happy Coding & Task Managing with **FlowSprint!** 🚀
+<h3 align="center">Enjoy Sprinting with FlowSprint ʘ‿ʘ </h3>
+
